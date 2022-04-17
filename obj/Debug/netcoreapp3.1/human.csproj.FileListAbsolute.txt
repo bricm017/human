@@ -1,0 +1,13 @@
+C:\Users\madis\Documents\coding_dojo\C#\human\obj\Debug\netcoreapp3.1\human.csprojAssemblyReference.cache
+C:\Users\madis\Documents\coding_dojo\C#\human\obj\Debug\netcoreapp3.1\human.AssemblyInfoInputs.cache
+C:\Users\madis\Documents\coding_dojo\C#\human\obj\Debug\netcoreapp3.1\human.AssemblyInfo.cs
+C:\Users\madis\Documents\coding_dojo\C#\human\obj\Debug\netcoreapp3.1\human.csproj.CoreCompileInputs.cache
+C:\Users\madis\Documents\coding_dojo\C#\human\bin\Debug\netcoreapp3.1\human.exe
+C:\Users\madis\Documents\coding_dojo\C#\human\bin\Debug\netcoreapp3.1\human.deps.json
+C:\Users\madis\Documents\coding_dojo\C#\human\bin\Debug\netcoreapp3.1\human.runtimeconfig.json
+C:\Users\madis\Documents\coding_dojo\C#\human\bin\Debug\netcoreapp3.1\human.runtimeconfig.dev.json
+C:\Users\madis\Documents\coding_dojo\C#\human\bin\Debug\netcoreapp3.1\human.dll
+C:\Users\madis\Documents\coding_dojo\C#\human\bin\Debug\netcoreapp3.1\human.pdb
+C:\Users\madis\Documents\coding_dojo\C#\human\obj\Debug\netcoreapp3.1\human.dll
+C:\Users\madis\Documents\coding_dojo\C#\human\obj\Debug\netcoreapp3.1\human.pdb
+C:\Users\madis\Documents\coding_dojo\C#\human\obj\Debug\netcoreapp3.1\human.genruntimeconfig.cache
